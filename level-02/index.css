@@ -1,0 +1,52 @@
+body
+{
+	height: 100%;
+	background: url('C:/Users/suraj/Downloads/level-02/bgnd.png') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+
+}
+.conatiner
+{
+	width:80%;
+	margin: auto;
+	padding: auto;
+}
+
+.heading
+{
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 27px;
+	font-weight: normal;
+	color:#2d3436;
+	word-spacing: 5px;
+	margin-bottom: 70px;
+}
+.box1
+{
+	border: 2px #8B4513 solid;
+	background-color: #8B4513;
+	padding: 20px;
+	margin-left:33%;
+	margin-right: 33%;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	font-family:Arial, Helvetica, sans-serif; 
+
+
+}
+.box1 a
+{
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	
+
+	
+}
+.box1 a:hover{
+	font-size: 35px;
+}
